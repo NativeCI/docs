@@ -1,0 +1,9 @@
+{
+  "title": "NativeCI | Docs",
+  "url": "https://docs.nativeci.io",
+  "logo": {
+    "light": "/logo.svg",
+    "dark": "/logo.svg"
+  },
+  "github": "nativeci/docs"
+}
