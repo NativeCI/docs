@@ -5,7 +5,6 @@ position: 10
 category: 'Databases'
 ---
 
-Deploy demo app with database
 In this demo we will deploy a Twitter-like application which allows users to login and posts on public feed:
 ![Demo login](/images/databases/demo-login.png)
 ![Demo chat](/images/databases/demo-chat.png)
