@@ -2,7 +2,7 @@
 title: Build
 description: 'How to configure build settings for project?'
 position: 4
-category: 'Guides'
+category: 'Apps'
 ---
 
 You can configure build settings for your project in "Build" tab:

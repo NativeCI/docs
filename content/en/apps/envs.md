@@ -2,7 +2,7 @@
 title: Environment variables
 description: 'How to securely pass credentials to your application?'
 position: 9
-category: 'Guides'
+category: 'Apps'
 ---
 
 You can securely pass information to your application via ***Environment variables***:

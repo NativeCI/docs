@@ -1,7 +1,7 @@
 ---
 title: 'Login to management UI'
 description: 'How to login to management UI for database deployed on NativeCI?'
-position: 12
+position: 22
 category: 'Databases'
 features:
     - Query your data

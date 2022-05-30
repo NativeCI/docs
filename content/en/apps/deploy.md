@@ -2,7 +2,7 @@
 title: Deployment
 description: 'How to configure deployment settings for project?'
 position: 5
-category: 'Guides'
+category: 'Apps'
 ---
 
 You can configure deployment settings for your project in "Deploy" tab:

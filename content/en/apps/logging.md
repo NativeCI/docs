@@ -2,7 +2,7 @@
 title: Logging
 description: 'How to view your application logs?'
 position: 8
-category: 'Guides'
+category: 'Apps'
 ---
 
 If your application running, you can access its logs by click on ***Logs*** button.

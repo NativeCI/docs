@@ -1,7 +1,7 @@
 ---
 title: 'Retrieve root password'
 description: 'How to get root password for Mysql database deployed on NativeCI?'
-position: 11
+position: 21
 category: 'Databases'
 ---
 

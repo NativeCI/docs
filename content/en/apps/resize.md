@@ -2,7 +2,7 @@
 title: Resizing
 description: 'How to resize your application to fit your demans?'
 position: 6
-category: 'Guides'
+category: 'Apps'
 ---
 
 Choose one of packages to scale your application.

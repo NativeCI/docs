@@ -1,7 +1,7 @@
 ---
 title: 'Databases quickstart'
 description: 'How to quickly deploy a Mysql database on NativeCI?'
-position: 10
+position: 20
 category: 'Databases'
 ---
 

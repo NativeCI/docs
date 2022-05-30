@@ -2,7 +2,7 @@
 title: Monitoring
 description: 'How to monitor your application performance?'
 position: 7
-category: 'Guides'
+category: 'Apps'
 ---
 
 If your application running, you can view its CPU and RAM usage.
