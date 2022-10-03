@@ -24,13 +24,14 @@ Choose your repo first:
 Next, select DotnetCore deployment:
 ![Dotnet select](/images/examples/dotnet-core-choose.png)
 
-To choose a correct Dotnet version, open up the terminal and type the command below:
-```
-$ dotnet --version
-2.1.104
+To choose a correct Dotnet version, open up the project and find your ```.csproj``` file:
+```xml
+<PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+</PropertyGroup>
 ```
 
-Choose the version output, e.g 2.1 or 6.0.
+Choose the version TargetFramework, e.g 2.1 or 6.0.
 
 On the final screen, enter the following settings:
 ![DotnetCore settings](/images/examples/dotnet-core-settings.png)
