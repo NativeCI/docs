@@ -9,6 +9,8 @@ category: "Learn by example"
 How to deploy C# based .NetCore project?
 </description>
 
+> If you do not have code ready, you can fork the repository being used in this example: [https://github.com/paladium/nativeci-demos](https://github.com/paladium/nativeci-demos)
+
 ![NetCore](/images/languages/dotnet_core.png)
 
 We are going to deploy a simple hello world dotnet api, that will have a single endpoint:

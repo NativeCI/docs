@@ -9,6 +9,8 @@ category: "Learn by example"
 How to Build and Deploy NuxtJs project?
 </description>
 
+> If you do not have code ready, you can fork the repository being used in this example: [https://github.com/paladium/nativeci-demos](https://github.com/paladium/nativeci-demos)
+
 ![NuxtJs](/images/languages/nuxtjs.png)
 
 We are going to deploy a hello-world application for NuxtJs, follow along to find different ways you can customise your NuxtJs deployment.

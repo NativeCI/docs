@@ -9,6 +9,8 @@ category: "Learn by example"
 How to deploy Java-based Gradle project?
 </description>
 
+> If you do not have code ready, you can fork the repository being used in this example: [https://github.com/paladium/nativeci-demos](https://github.com/paladium/nativeci-demos)
+
 ![Gradle](/images/languages/gradle.png)
 
 We are going to deploy a simple hello world java api, that will have a single endpoint:

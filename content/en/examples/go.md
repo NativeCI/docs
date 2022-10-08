@@ -9,6 +9,8 @@ category: "Learn by example"
 How Build and Deploy Golang project?
 </description>
 
+> If you do not have code ready, you can fork the repository being used in this example: [https://github.com/paladium/nativeci-demos](https://github.com/paladium/nativeci-demos)
+
 ![Golang](/images/languages/go.png)
 
 First you would need to choose one of golang projects available, if you do not have one, you can navigate to this example to deploy a project [Create project](/create-project) example.

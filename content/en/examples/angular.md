@@ -9,6 +9,8 @@ category: "Learn by example"
 How to Build and Deploy AngularJS project?
 </description>
 
+> If you do not have code ready, you can fork the repository being used in this example: [https://github.com/paladium/nativeci-demos](https://github.com/paladium/nativeci-demos)
+
 ![AngularJS](/images/languages/angularjs.png)
 
 We are going to deploy a hello-world application for AngularJS, follow along to find different ways you can customise your AngularJS deployment.
