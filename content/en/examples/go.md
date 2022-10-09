@@ -13,6 +13,8 @@ How Build and Deploy Golang project?
 
 ![Golang](/images/languages/go.png)
 
+## Guide
+
 First you would need to choose one of golang projects available, if you do not have one, you can navigate to this example to deploy a project [Create project](/create-project) example.
 
 At the last page, let's explore all the options available and common deployment commands you can use.
