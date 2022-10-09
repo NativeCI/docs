@@ -15,8 +15,6 @@ How to Build and Deploy Svelte project?
 
 We are going to deploy a hello-world application for Svelte, follow along to find different ways you can customise your Svelte deployment.
 
-![Svelte Demo](/images/examples/svelte-demo.png)
-
 ## Guide
 Choose your repo first:
 ![Choose repo](/images/intro/choose-repo.png)

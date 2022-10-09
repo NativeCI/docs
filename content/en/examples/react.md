@@ -15,8 +15,6 @@ How to Build and Deploy ReactJs project?
 
 We are going to deploy a hello-world application for ReactJs, follow along to find different ways you can customise your ReactJs deployment.
 
-![ReactJs Demo](/images/examples/react-demo.png)
-
 ## Guide
 Choose your repo first:
 ![Choose repo](/images/intro/choose-repo.png)

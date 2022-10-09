@@ -14,9 +14,6 @@ How to Build and Deploy VueJs project?
 ![VueJs](/images/languages/vuejs.png)
 
 We are going to deploy a hello-world application for VueJs, follow along to find different ways you can customise your VueJs deployment.
-
-![VueJs Demo](/images/examples/vue-demo.png)
-
 ## Guide
 Choose your repo first:
 ![Choose repo](/images/intro/choose-repo.png)
