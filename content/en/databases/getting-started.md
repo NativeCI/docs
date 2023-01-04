@@ -26,7 +26,7 @@ Click on Create and wait for a few moments until the project gets created and bu
 ## Deploy the database
 Navigate to [https://console.nativeci.io/add-database](https://console.nativeci.io/add-database) and choose Mysql version 5.7 as the database:
 ![Demo database](/images/databases/demo-database-choose.png)
-Choose the flavor on next page and finally specify the name of the database (This could be any name, since we will be creating MYSQL databases inside of it):
+Choose the flavor on next page and finally specify the name of the database (This could be any name, since we will be creating MYSQL databases inside of it). Provide root password for your new database as well:
 ![Demo deploy database](/images/databases/demo-database-deploy.png)
 
 Wait a few moments, before a database is created, after that click on the database created and click on Attach button:
@@ -35,7 +35,7 @@ Enter the following script to connect to your database:
 ```
 mysql -u root -p$MYSQL_ROOT_PASSWORD
 ```
-> Note: $MYSQL_ROOT_PASSWORD will be replaced automatically for you as environment variable.
+> Note: $MYSQL_ROOT_PASSWORD (the password you provided earlier) will be replaced automatically for you as environment variable.
 
 > Note: you could copy the text and right click "Paste as plain text" into the terminal
 

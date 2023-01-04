@@ -1,6 +1,6 @@
 ---
-title: 'Login to management UI'
-description: 'How to login to management UI for database deployed on NativeCI?'
+title: 'MySQL'
+description: 'How to login to management UI for MYSQL database deployed on NativeCI?'
 position: 22
 category: 'Databases'
 features:
