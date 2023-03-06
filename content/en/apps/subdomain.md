@@ -1,6 +1,6 @@
 ---
 title: 'Custom subdomain'
-description: 'How how to configure custom subdomain?'
+description: 'How to configure custom subdomain?'
 category: 'Apps'
 position: 11
 ---
